@@ -1,0 +1,4 @@
+google-cloud-container>=2.40
+google-auth>=2.30
+pydantic-settings>=2.3
+click>=8.1
